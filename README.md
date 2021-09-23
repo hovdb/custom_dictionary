@@ -26,18 +26,4 @@ Creating a custom dictionary from a list of terms/strings.
 ******End**************************************************************
 
 
-7. Create a rule to reference the pattern name you created (use the name of the pattern)
-******Rule Syntax*****************************************************
- 
-    <or>
-      <greaterThan>
-        <evtSrcFileEntityFrequency name = "CAR_COMPANIES"/>
-        <int value = "0"/>
-      </greaterThan>
-      <greaterThan>
-        <evtDestFileEntityFrequency name = "CAR_COMPANIES"/>
-        <int value = "0"/>
-      </greaterThan>
-    </or>
-    
-******End**************************************************************
+7. Create a rule to reference the pattern name you created (use the name of the pattern)  See README.txt
