@@ -8,7 +8,7 @@ Creating a custom dictionary from a list of terms/strings.
 1. Create a list called data.txt in the format as the example file.
 
 
-2. Modify the dictionary.pl and update cars with the dictionary name and cars codes (do a find and replace on cars)
+2. Modify the dictionary.pl and update cars with the dictionary name and cars codes (do a find and replace on cars) (?A:cars_dic/cars)
 
 
 3. Save script.
