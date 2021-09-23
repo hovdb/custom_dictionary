@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Grammars>
+<Dictionary name="cars_dic">
+<EntrySet name="cars_codes" case="off">
+<Entry headword="Ford" />
+<Entry headword="Chevy" />
+<Entry headword="Ferrari" />
+<Entry headword="Fiat" />
+<Entry headword="Yugo" />
+<Entry headword="Oldsmobile" />
+<Entry headword="BMW" />
+<Entry headword="Mercedes" />
+<Entry headword="Volvo" />
+<Entry headword="Alfa Romeo" />
+<Entry headword="Saab" />
+<Entry headword="Tesla" />
+</EntrySet>
+</Dictionary>
+</Grammars>
