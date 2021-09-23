@@ -21,9 +21,7 @@ Creating a custom dictionary from a list of terms/strings.
 
 
 6. Create a Content Pattern for the dictionary you just created:
-*****Content Pattern Name: CAR_COMPANIES******************
-(?A:cars_dic/cars)
-******End**************************************************************
+
 
 
 7. Create a rule to reference the pattern name you created (use the name of the pattern)  See README.txt
